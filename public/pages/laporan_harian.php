@@ -20,7 +20,7 @@ $result=mysqli_query($conn, $sql);
     <h1 class="body-title">Laporan Harian</h1>
     <br>
 
-    <form method="post" action="printall_harian.php" target="_blank">
+    <form method="post" action="printall_harian.php" target="_blank" class="frm-printall">
     <button type="submit" class="tbl-print">Print All</button>
 </form>
 
