@@ -76,7 +76,7 @@ nav .nav-mid a:hover {
 }
 
 nav .nav-side.btn-profil {
-  background-color: var(--third);
+  background-color:#ffffff;
   font-size: 1.2rem;
   font-weight: 600;
   padding: 8px;
@@ -311,7 +311,7 @@ tbody tr td {
 .frm-printall .tbl-print {
   margin-left: 10rem;
   margin-bottom: 1rem;
-    background-color: greenyellow;
+  background-color: greenyellow;
   color: black;
   padding: 5px;
   font-weight: 550;
